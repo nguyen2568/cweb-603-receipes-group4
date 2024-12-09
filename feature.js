@@ -1,3 +1,4 @@
-console.log("hello");
-
-console.log("new code");
+function editFeature()
+{
+    return ["Music"];
+}
