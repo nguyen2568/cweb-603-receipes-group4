@@ -1,4 +1,5 @@
-function editFeature()
+function editFeature(music)
 {
-    return ["Music"];
+    
+    return music + "- movies";
 }
