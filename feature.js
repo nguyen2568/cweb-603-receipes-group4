@@ -1,5 +1,6 @@
 function editFeature(music)
 {
-    music = music + ' - karaoke'
+    console.log(music);
+    music = music + ' - ';
     return music + "- movies";
 }
